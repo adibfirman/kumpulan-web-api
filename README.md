@@ -17,6 +17,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Performance
 - https://www.w3.org/webperf/
 - https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/performance
 - ...
 
 ##### Web Bluetooth API 
